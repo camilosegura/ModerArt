@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ModerArtUI</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="more_information">More Information</string>
+    <string name="dialog_message">Would you like to go to the MoMA\'s page?</string>
+    <string name="dialog_negative">No</string>
+    <string name="dialog_positive">Go!</string>
+    <string name="go_moma">Go to MoMA</string>
+    <color name="red">#FF0000</color>
+    <color name="green">#00FF00</color>
+    <color name="blue">#0000FF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="yellow">#FFFF00</color>
+    
+</resources>
